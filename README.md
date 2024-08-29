@@ -1,6 +1,6 @@
 # Technical Analysis of EUR/INR Exchange Rate
 
-Welcome to the Technical Analysis of EUR/INR Exchange Rate repository! This project provides a comprehensive analysis of the EUR/INR currency pair using Moving Averages, Bollinger Bands, and Commodity Channel Index (CCI) to assist in making informed trading decisions.
+Welcome to the Technical Analysis of EUR/INR Exchange Rate ! This project provides a comprehensive analysis of the EUR/INR currency pair using Moving Averages, Bollinger Bands, and Commodity Channel Index (CCI) to assist in making informed trading decisions.
 
 ## Projects
 
