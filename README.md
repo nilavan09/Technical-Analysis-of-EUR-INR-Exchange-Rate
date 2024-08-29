@@ -13,8 +13,7 @@ Welcome to the Technical Analysis of EUR/INR Exchange Rate ! This project provid
   - ![Moving Averages](./moving_avg_decisions.png)
   - ![Bollinger Bands](./Bollinger_decisions.png)
   - ![CCI](./cci_decisions.png)
-- **Presentation**:
-- ![PPT](./Presentation.pptx)
+- **Presentation**: ![PPT](./Presentation.pptx)
 
 ## How to Run the Code
 1. **Set Up the Environment**:
