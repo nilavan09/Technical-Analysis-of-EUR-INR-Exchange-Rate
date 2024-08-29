@@ -44,4 +44,4 @@ Welcome to the Technical Analysis of EUR/INR Exchange Rate repository! This proj
    - The script will generate CSV files with trading decisions and save plots as images in the project directory.
 
 ## Contact
-If you have any questions or need further information, feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions or need further information, feel free to reach out to me at (mailto:nilavanpoz123@gmail.com).
