@@ -2,7 +2,7 @@
 
 Welcome to the Technical Analysis of EUR/INR Exchange Rate ! This project provides a comprehensive analysis of the EUR/INR currency pair using Moving Averages, Bollinger Bands, and Commodity Channel Index (CCI) to assist in making informed trading decisions.
 
-## Projects
+## Project
 
 ### 1. EUR/INR Technical Analysis
 - **Description**: This project includes Python scripts for calculating Moving Averages, Bollinger Bands, and CCI for the EUR/INR exchange rate. The analyses generate trading decisions and visualizations based on historical data.
@@ -12,7 +12,7 @@ Welcome to the Technical Analysis of EUR/INR Exchange Rate ! This project provid
   - ![Moving Averages](./moving_avg_decisions.png)
   - ![Bollinger Bands](./Bollinger_decisions.png)
   - ![CCI](./cci_decisions.png)
-- **Presentation**: Not available
+- **Presentation**: (./Presentation.pptx)
 
 ## How to Run the Code
 1. **Set Up the Environment**:
