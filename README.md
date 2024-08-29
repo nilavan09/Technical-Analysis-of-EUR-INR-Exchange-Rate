@@ -9,9 +9,9 @@ Welcome to the Technical Analysis of EUR/INR Exchange Rate ! This project provid
 - **Technologies Used**: Python, yFinance, pandas, matplotlib, numpy
 - **Code**: [pythoncode.py](./pythoncode.py)
 - **Screenshots**:
-  - ![Moving Averages](./Bollinger_decisions.png)
-  - ![Bollinger Bands](./screenshots/Bollinger_decisions.png)
-  - ![CCI](./screenshots/cci_decisions.png)
+  - ![Moving Averages](./moving_avg_decisions.png)
+  - ![Bollinger Bands](./Bollinger_decisions.png)
+  - ![CCI](./cci_decisions.png)
 - **Presentation**: Not available
 
 ## How to Run the Code
